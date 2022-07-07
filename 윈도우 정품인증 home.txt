@@ -1,0 +1,40 @@
+제품키 삭제
+slmgr /upk
+
+제품키 레지스트리 삭제
+slmgr /cpky
+
+제품키
+Windows 10 Pro :  W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows 10 Pro N   :  MH37W-N47XK-V7XM9-C7227-GCQG9
+
+KMS 서버 설정
+slmgr /skms kms8.msguides.com
+slmgr /skms kms.digiboy.ir
+
+윈도우즈10 프로버전
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms8.msguides.com
+slmgr /ato
+slmgr /xpr
+
+윈도우즈10 홈버전
+slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+slmgr /skms kms8.msguides.com
+slmgr /ato
+slmgr /xpr
+
+윈도우즈10 홈 N버전
+slmgr /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM
+slmgr /skms kms8.msguides.com
+slmgr /ato
+slmgr /xpr
+
+---------------------------------------------------------------------------------
+Music Info
+Song : Ikson - Voyage
+Song : Paradise - Ikson
+Song : Thinkin' - Ikson
+
+Follow Artist : https://soundcloud.com/ikson
+Music promoted by DayDreamSound : https://youtu.be/Wf17aTu8qg4
