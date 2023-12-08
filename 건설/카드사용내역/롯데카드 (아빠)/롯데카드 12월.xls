@@ -1,0 +1,2249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+	xmlns:x="urn:schemas-microsoft-com:office:excel"
+	xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true" />
+<meta name="ProgId" content="Excel.Sheet">
+<meta name="Generator" content="Microsoft Excel">
+<style>
+tr{mso-height-source:auto;mso-ruby-visibility:none}
+col{mso-width-source:userset;mso-ruby-visibility:none}
+br{mso-data-placement:same-cell}
+ruby{ruby-align:left}
+ul{margin-top:0}
+
+table{font-family: "맑은 고딕", "Malgun Gothic", "굴림", "Gulim", "Arial", "Helvetica", sans-serif;font-size:10pt;border-collapse:collapse}
+th,td{border:0.5pt solid #808080;text-align:center;color:windowtext;word-break:break-all}
+th{background:#d9d9d9}
+.x-total th, .x-total td{background:#eee;font-weight:700}
+.x-tit1{width:100%;color:windowtext;font-size:20pt;font-weight:700;text-align:center;text-decoration:underline;text-underline-style:single}
+.x-tit2{margin-bottom:0;color:windowtext;font-size:12pt;font-weight:700;text-align:left;vertical-align:bottom;text-decoration:underline;text-underline-style:single}
+.x-tit3{margin-bottom:0;color:windowtext;font-size:10pt;font-weight:700;text-align:left;vertical-align:bottom}
+.x-right{text-align:right}
+.x-left{text-align:left}
+.x-txt{width:100%;text-align:left}
+.x-txtr{width:100%;margin:0;text-align:right}
+.x-mt0{margin-top:0}
+.x-space{border:0}
+</style>
+<title></title>
+</head>
+<body link="blue" vlink="purple">
+
+
+<h1 class="x-tit1">이용대금명세서</h1>
+<h2 class="x-tit2">■ 요약내역</h2>
+<table>
+	<thead>
+		<tr>
+			<th scope="col" colspan="2">이용내역</th>
+			<th scope="col">금액</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th colspan="row" rowspan="6">이번달</th>
+			
+				
+					<td class="x-left">일시불</td>
+					<td class="x-right">3,347,275</td>
+				
+				
+				
+			
+		</tr>
+		
+		<!-- 일시불 / 할부 둘다 있는경우 -->
+		
+			<tr>
+				<td class="x-left">할부</td>
+				<td class="x-right">203,600</td>
+			</tr>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			<tr class="x-total">
+				<td class="x-left">소계</td>
+				<td class="x-right">3,550,875</td>
+			</tr>
+		
+		
+		
+		
+			<tr class="x-total">
+				
+					
+					
+						<td class="x-left">합계</td>
+					
+				
+				
+				<td class="x-right">3,550,875</td>
+			</tr>
+		
+		
+			<tr>
+				<td class="x-left">최소결제금액</td>
+				<td class="x-right">538,327</td>
+			</tr>
+		
+		
+			<tr>
+				<td class="x-left">일부결제금액이월약정<br>(리볼빙)약정률</td>
+				<td class="x-right">100%</td>
+			</tr>
+		
+		
+	</tbody>
+</table>
+
+<h2 class="x-tit2">■ 상세내역</h2>
+<table>
+	<thead>
+		<tr>
+			<th scope="col" rowspan="2">이용일</th>
+			<th scope="col" rowspan="2">이용카드</th>
+			<th scope="col" rowspan="2">이용가맹점</th>
+			<th scope="col" rowspan="2">이용총액</th>
+			<th scope="col" rowspan="2">회차</th>
+			<th scope="col" rowspan="2">할부</th>
+			<th scope="col" colspan="2">이번 달 입금하실 금액</th>
+			<th scope="col" rowspan="2">적립예정</th>
+			<th scope="col" rowspan="2">적립예정</th>
+			<th scope="col" rowspan="2">이용혜택</th>
+			<th scope="col" rowspan="2">혜택금액</th>
+			<th scope="col" rowspan="2">결제 후 잔액</th>
+		</tr>
+		<tr>
+			<th scope="col">원금</th>
+			<th scope="col">수수료</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+			
+				<tr>
+					<td>2022.11.24</td>
+					<td>본인네이버 플래티넘</td>
+					<td>네이버파이낸셜㈜</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										311,084원
+									
+								
+							
+						
+					</td>
+					<td class="x-right">12</td>
+					<td class="x-right">12</td>
+					<td class="x-right">25,900</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+							
+								
+								
+									무이자 
+								
+							
+						
+					</td>
+					<td class="x-right">503</td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.07.28</td>
+					<td>본인네이버 플래티넘</td>
+					<td>삼성화재해상보험(주)</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										1,011,870원
+									
+								
+							
+						
+					</td>
+					<td class="x-right">4</td>
+					<td class="x-right">6</td>
+					<td class="x-right">168,600</td>
+					<td class="x-right">9,100</td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right">337,200</td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.12</td>
+					<td>본인네이버 플래티넘</td>
+					<td>가람주유소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										94,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">94,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.13</td>
+					<td>본인네이버 플래티넘</td>
+					<td>신공구철물건재</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										84,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">84,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.13</td>
+					<td>본인네이버 플래티넘</td>
+					<td>진짬뽕</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										10,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">10,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.14</td>
+					<td>본인네이버 플래티넘</td>
+					<td>주식회사 양평해장국청북</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										22,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">22,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.14</td>
+					<td>본인네이버 플래티넘</td>
+					<td>드림종합공구</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										25,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">25,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.14</td>
+					<td>본인네이버 플래티넘</td>
+					<td>드림종합공구</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										9,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">9,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.14</td>
+					<td>본인네이버 플래티넘</td>
+					<td>대신정기화물 평택안중 영업소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										2,200원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">2,200</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.16</td>
+					<td>본인네이버 플래티넘</td>
+					<td>곤지암할매소머리국밥</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										10,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">10,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.18</td>
+					<td>본인네이버 플래티넘</td>
+					<td>오수(하)주유소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										88,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">88,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.18</td>
+					<td>본인네이버 플래티넘</td>
+					<td>백제폐차장</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										176,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">176,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.18</td>
+					<td>본인네이버 플래티넘</td>
+					<td>신생안전상사</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										47,200원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">47,200</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.18</td>
+					<td>본인네이버 플래티넘</td>
+					<td>코오롱엘에스아이(주)춘향(완주방향)휴게소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										9,500원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">9,500</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.19</td>
+					<td>본인네이버 플래티넘</td>
+					<td>농부마트 금암점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										12,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">12,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.20</td>
+					<td>본인네이버 플래티넘</td>
+					<td>신창공판장</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										60,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">60,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.20</td>
+					<td>본인네이버 플래티넘</td>
+					<td>해화가든</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										30,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">30,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.21</td>
+					<td>본인네이버 플래티넘</td>
+					<td>손맛찜식당</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										45,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">45,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.21</td>
+					<td>본인네이버 플래티넘</td>
+					<td>해양산업단지주유소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										101,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">101,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.22</td>
+					<td>본인네이버 플래티넘</td>
+					<td>KR식자재마트</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										4,400원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">4,400</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.22</td>
+					<td>본인네이버 플래티넘</td>
+					<td>쿠팡(와우멤버십) 쿠팡(와우 멤버십)</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										4,990원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">4,990</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.23</td>
+					<td>본인네이버 플래티넘</td>
+					<td>판다몰 안중점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										56,700원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">56,700</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.23</td>
+					<td>본인네이버 플래티넘</td>
+					<td>손맛찜식당</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										48,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">48,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.23</td>
+					<td>본인네이버 플래티넘</td>
+					<td>한일종합건재상사</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										15,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">15,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.23</td>
+					<td>본인네이버 플래티넘</td>
+					<td>09월 SMS수수료</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">300</td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.23</td>
+					<td>본인네이버 플래티넘</td>
+					<td>09월 SMS수수료 포인트결제</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">-300</td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.25</td>
+					<td>본인네이버 플래티넘</td>
+					<td>손맛찜식당</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										36,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">36,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.26</td>
+					<td>본인네이버 플래티넘</td>
+					<td>드림종합공구</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										43,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">43,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.26</td>
+					<td>본인네이버 플래티넘</td>
+					<td>거산자동차정비센타</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										70,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">70,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.26</td>
+					<td>본인네이버 플래티넘</td>
+					<td>거산자동차정비센타</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										20,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">20,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.27</td>
+					<td>본인네이버 플래티넘</td>
+					<td>우리영농조합법인(농민주유소)</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										399,050원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">399,050</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.27</td>
+					<td>본인네이버 플래티넘</td>
+					<td>안중농협 자재센터</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										31,500원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">31,500</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.27</td>
+					<td>본인네이버 플래티넘</td>
+					<td>손맛찜식당</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										59,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">59,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.27</td>
+					<td>본인네이버 플래티넘</td>
+					<td>한일종합건재상사</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										23,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">23,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.28</td>
+					<td>본인네이버 플래티넘</td>
+					<td>차이나스토리 안중점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										15,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">15,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.28</td>
+					<td>본인네이버 플래티넘</td>
+					<td>뚜레쥬르안중송담점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										14,500원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">14,500</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.29</td>
+					<td>본인네이버 플래티넘</td>
+					<td>우림관 화로구이 안중점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										124,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">124,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.30</td>
+					<td>본인네이버 플래티넘</td>
+					<td>보물창고</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										5,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">5,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.30</td>
+					<td>본인네이버 플래티넘</td>
+					<td>주식회사고향순대곱창</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										27,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">27,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.30</td>
+					<td>본인네이버 플래티넘</td>
+					<td>판다몰 안중점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										15,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">15,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.30</td>
+					<td>본인네이버 플래티넘</td>
+					<td>안중농협 자재센터</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										51,500원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">51,500</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.30</td>
+					<td>본인네이버 플래티넘</td>
+					<td>우정사업본부(우체국)</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										49,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">49,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.30</td>
+					<td>본인네이버 플래티넘</td>
+					<td>우정사업본부(우체국)</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										28,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">28,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.31</td>
+					<td>본인네이버 플래티넘</td>
+					<td>당진윤활유상사</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										117,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">117,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.31</td>
+					<td>본인네이버 플래티넘</td>
+					<td>손맛찜식당</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										36,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">36,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.10.31</td>
+					<td>본인네이버 플래티넘</td>
+					<td>우정사업본부(우체국)</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										7,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">7,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.01</td>
+					<td>본인네이버 플래티넘</td>
+					<td>신창공판장</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										60,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">60,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.01</td>
+					<td>본인네이버 플래티넘</td>
+					<td>서해안주유소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										90,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">90,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.02</td>
+					<td>본인네이버 플래티넘</td>
+					<td>곤지암할매소머리국밥</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										9,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">9,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.03</td>
+					<td>본인네이버 플래티넘</td>
+					<td>판다몰 안중점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										7,500원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">7,500</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.03</td>
+					<td>본인네이버 플래티넘</td>
+					<td>티파니모텔</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										30,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">30,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.03</td>
+					<td>본인네이버 플래티넘</td>
+					<td>영신철강산업주식회사</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										215,435원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">215,435</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.03</td>
+					<td>본인네이버 플래티넘</td>
+					<td>우정사업본부(우체국)</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										42,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">42,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.04</td>
+					<td>본인네이버 플래티넘</td>
+					<td>안중농협 송담주유소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										104,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">104,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.04</td>
+					<td>본인네이버 플래티넘</td>
+					<td>60계치킨 평택안중점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										17,900원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">17,900</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.04</td>
+					<td>본인네이버 플래티넘</td>
+					<td>치평주유소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										96,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">96,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.05</td>
+					<td>본인네이버 플래티넘</td>
+					<td>산마루</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										49,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">49,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.05</td>
+					<td>본인네이버 플래티넘</td>
+					<td>승리문구</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										33,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">33,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.05</td>
+					<td>본인네이버 플래티넘</td>
+					<td>우림관 화로구이 안중점</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										80,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">80,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.06</td>
+					<td>본인네이버 플래티넘</td>
+					<td>(주)경인석유고속도로진영(상)주유소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										76,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">76,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.06</td>
+					<td>본인네이버 플래티넘</td>
+					<td>드림모텔</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										40,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">40,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.06</td>
+					<td>본인네이버 플래티넘</td>
+					<td>우정사업본부(우체국)</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										70,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">70,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.07</td>
+					<td>본인네이버 플래티넘</td>
+					<td>주식회사 만남이엔지 만남주유소</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										75,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">75,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.07</td>
+					<td>본인네이버 플래티넘</td>
+					<td>장모식당</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										8,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">8,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.07</td>
+					<td>본인네이버 플래티넘</td>
+					<td>구글페이먼트 구글페이먼트코리아</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										24,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">24,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.07</td>
+					<td>본인네이버 플래티넘</td>
+					<td>구글페이먼트 구글페이먼트코리아</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										8,400원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">8,400</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.07</td>
+					<td>본인네이버 플래티넘</td>
+					<td>구글페이먼트 구글페이먼트코리아</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										6,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">6,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.08</td>
+					<td>본인네이버 플래티넘</td>
+					<td>진흥각</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										44,500원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">44,500</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.09</td>
+					<td>본인네이버 플래티넘</td>
+					<td>스마일찹쌀꽈배기</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										7,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">7,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+				<tr>
+					<td>2023.11.11</td>
+					<td>본인네이버 플래티넘</td>
+					<td>광명전기</td>
+					<td class="x-right">
+						
+							
+							
+								
+									
+										30,000원
+									
+								
+							
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+					<td class="x-right">30,000</td>
+					<td class="x-right"></td>
+					<td></td>
+					<td class="x-right"></td>
+					<td class="x-left">
+						
+					</td>
+					<td class="x-right"></td>
+					<td class="x-right"></td>
+				</tr>
+			
+		
+		
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="x-tit2">■ 알뜰결제프로모션 내역</h2>
+<table>
+	<thead>
+		<tr>
+			<th scope="col" colspan="2">이용일자</th>
+			<th scope="col">이용가맹점</th>
+			<th scope="col">이용금액</th>
+			<th scope="col">선할인금액</th>
+			<th scope="col">목표이용기간(개월)</th>
+			<th scope="col">목표이용금액(월)</th>
+			<th scope="col">월 목표달성금액</th>
+			<th scope="col">진행회차</th>
+			<th scope="col">달성여부</th>
+			<th scope="col">선할인청구금액</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+			
+				<tr>
+					<td colspan="2">2022.03.28</td>
+					<td>NICE결제대행_네이버페이</td>
+					<td class="x-right">10,895,400</td>
+					<td class="x-right">100,000</td>
+					<td class="x-right">20</td>
+					<td class="x-right">1,100,000</td>
+					<td class="x-right">3,211,440</td>
+					<td>19</td>
+					<td>Y</td>
+					<td class="x-right"></td>
+				</tr>
+			
+		
+	</tbody>
+</table>
+<p class="x-mt0">
+	<strong>- 알뜰 결제 프로모션 선할인금액은 '(입금)미리 입금하신 금액'에 포함되어 이용금액에 차감 적용됩니다.</strong><br>
+	- 1회차 목표달성 기간 : 알뜰결제 신청 다음 날 ~ 다음 달 말일(신청 이용 건은 이용실적에서 제외)<br>
+	- 이후 목표달성기간은 매월 1일~말일이며 다음 달 3영업일 기준으로 청구됩니다.<br>
+	- 목표금액 달성 여부 확정 기준일(매달 3영업일)에 목표 달성 여부 확인 후 목표 미달성 시 이용금액은 회원님께서 상환하셔야 합니다.(이용수수료 없음, 이용금액=할인금액/목표기간)<br>
+	- 신청매출을 취소(부분취소 포함)시에는 프로모션 신청이 해지되며, 이미 지급된 선할인금액은 결제금액에 차감 또는 환불 처리된 후 '선할인금액'으로 정산 청구됩니다.
+</p>
+
+
+</body>
+</html>
+
+
